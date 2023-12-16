@@ -28,8 +28,3 @@ To get the project running on your local machine, follow these steps:
 3. Open the solution file (`.sln`) in Visual Studio or your preferred IDE.
 4. Build and run the project.
 
-
-
----
-
-Feel free to modify this template to suit the specifics of your project, such as adding more detailed descriptions, usage examples, or any additional sections that you find relevant.
